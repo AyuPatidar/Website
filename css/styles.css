@@ -135,10 +135,6 @@ li {
   }
 
   /* Coder */
-  
-  #coder {
-    width: 100%;
-  }
 
   .coder {
     display: none;
@@ -146,6 +142,7 @@ li {
 
   .coder-m {
     display: inherit;
+    width: 100%;
   }
 
 /*   Skill */
